@@ -7,3 +7,7 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Production Support
+- skill : Support
+  description: Support the application on production and fixed the issues that arise in production enviornment.
